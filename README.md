@@ -13,3 +13,4 @@ External commands:
 Program Key Points:
 - Handles inter process communication to accurately keep track of background process and be able to signal to kill them
 - Uses fork() to create child threads
+- Uses signal blocking during access to critical regions in the buffer
