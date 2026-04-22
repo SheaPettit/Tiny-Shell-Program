@@ -1,5 +1,5 @@
 # Tiny Shell Program
-A Tiny shell which has internal commands, and can handle foreground and background external commands
+A C Based Tiny shell which has internal commands, and can handle foreground and background external commands
 
 Internal commands:
 - kill <pid> (kills the program with that pid)
